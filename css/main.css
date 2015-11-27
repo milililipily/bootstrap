@@ -1,0 +1,30 @@
+/**{
+	outline: 1px solid red;
+}*/
+body{
+
+}
+
+.cabeza {
+	display: inline-block;
+}
+
+
+.arti{
+	border-right: 2px solid black;
+	padding-right: 5px;
+	color: #000000;
+}
+.imagen{
+	width: 457px;
+	height: 265px;
+}
+.fondo{
+	background-color:#D8D8D8; 
+}
+.list-group h4 a{ 
+	color: black;
+}
+.cont{
+	background-color:#D8D8D8;
+}
