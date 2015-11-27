@@ -25,6 +25,15 @@ body{
 .lista h4 a{ 
 	color: black;
 }
-.footer{
+.lista1{
 	display: inline-block;
+}
+.footer li{
+	list-style: none;
+}
+.footer ul{
+	padding-left: 0px;
+}
+.lista1 a, .lista2 a, .lista3 a, .lista4 a, .lista5 a{
+	color: black;
 }
