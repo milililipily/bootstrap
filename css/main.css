@@ -1,6 +1,6 @@
-*{
+/**{
 	outline: 1px solid red;
-}
+}*/
 body{
 
 }
@@ -24,4 +24,7 @@ body{
 }
 .lista h4 a{ 
 	color: black;
+}
+.footer{
+	display: inline-block;
 }
