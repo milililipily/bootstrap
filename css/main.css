@@ -1,6 +1,6 @@
-/**{
+*{
 	outline: 1px solid red;
-}*/
+}
 body{
 
 }
@@ -19,12 +19,9 @@ body{
 	width: 457px;
 	height: 265px;
 }
-.fondo{
+.fondo {
 	background-color:#D8D8D8; 
 }
-.list-group h4 a{ 
+.lista h4 a{ 
 	color: black;
-}
-.cont{
-	background-color:#D8D8D8;
 }
